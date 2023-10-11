@@ -556,6 +556,12 @@
   height: 332px;
   object-fit: cover;
 }
+.home-text42 {
+  font-size: 12px;
+  font-style: italic;
+  text-align: center;
+  font-weight: 400;
+}
 .home-text-container {
   width: 45%;
   display: flex;
