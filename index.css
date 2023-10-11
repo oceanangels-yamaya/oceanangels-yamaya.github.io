@@ -228,18 +228,18 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-halfunit);
 }
-.home-text03 {
+.home-text05 {
   color: var(--dl-color-gray-500);
   margin-top: var(--dl-space-space-doubleunit);
   margin-bottom: var(--dl-space-space-doubleunit);
 }
-.home-text04 {
+.home-text06 {
   color: #111212;
   font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;
 }
-.home-text05 {
+.home-text07 {
   color: #111212;
   font-size: 22px;
   font-weight: 700;
@@ -260,7 +260,7 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
-.home-text07 {
+.home-text09 {
   color: rgb(6, 6, 6);
   border-color: var(--dl-color-gray-black);
   border-style: groove;
@@ -300,11 +300,11 @@
   font-weight: 700;
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text17 {
+.home-text19 {
   color: var(--dl-color-gray-500);
   text-align: center;
 }
-.home-text18 {
+.home-text20 {
   color: #0a0000;
   font-size: 16px;
   font-style: normal;
@@ -313,7 +313,7 @@
   text-transform: none;
   text-decoration: none;
 }
-.home-text19 {
+.home-text21 {
   color: #0a0000;
 }
 .home-feature-card1 {
@@ -334,10 +334,10 @@
 .home-heading2 {
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text21 {
+.home-text23 {
   font-weight: 700;
 }
-.home-text23 {
+.home-text25 {
   color: rgb(16, 17, 18);
   text-align: center;
 }
@@ -360,7 +360,7 @@
   font-weight: 700;
   margin-bottom: var(--dl-space-space-tripleunit);
 }
-.home-text24 {
+.home-text26 {
   color: #0b0b0c;
   text-align: center;
 }
@@ -392,11 +392,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text25 {
+.home-text27 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text29 {
+.home-text31 {
   color: rgb(1, 0, 6);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -432,11 +432,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text30 {
+.home-text32 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text34 {
+.home-text36 {
   color: #010006;
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -471,11 +471,11 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text38 {
+.home-text40 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
-.home-text39 {
+.home-text41 {
   color: rgb(1, 0, 10);
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
@@ -510,7 +510,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text40 {
+.home-text42 {
   text-align: center;
   margin-bottom: var(--dl-space-space-fourunits);
 }
@@ -545,7 +545,7 @@
   margin-right: var(--dl-space-space-fiveunits);
   flex-direction: column;
 }
-.home-text41 {
+.home-text43 {
   margin-bottom: var(--dl-space-space-halfunit);
 }
 .home-link12 {
@@ -556,7 +556,7 @@
   height: 332px;
   object-fit: cover;
 }
-.home-text42 {
+.home-text44 {
   font-size: 12px;
   font-style: italic;
   text-align: center;
@@ -569,7 +569,7 @@
   flex-direction: column;
   justify-content: center;
 }
-.home-text43 {
+.home-text45 {
   color: rgb(22, 21, 21);
   width: auto;
   height: 100%;
@@ -596,7 +596,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fiveunits);
 }
-.home-text53 {
+.home-text55 {
   margin-bottom: var(--dl-space-space-fiveunits);
 }
 .home-cards-container1 {
@@ -654,7 +654,7 @@
 .home-position {
   color: var(--dl-color-gray-700);
 }
-.home-text54 {
+.home-text56 {
   color: #0c0b0b;
   text-align: left;
 }
@@ -704,7 +704,7 @@
 .home-position1 {
   color: var(--dl-color-gray-700);
 }
-.home-text57 {
+.home-text59 {
   color: rgb(26, 24, 24);
   text-align: left;
 }
@@ -754,7 +754,7 @@
 .home-position2 {
   color: var(--dl-color-gray-700);
 }
-.home-text58 {
+.home-text60 {
   color: #0e0c0c;
   text-align: left;
 }
@@ -789,7 +789,7 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
-.home-text59 {
+.home-text61 {
   margin-top: var(--dl-space-space-fiveunits);
   margin-bottom: var(--dl-space-space-fiveunits);
 }
@@ -900,14 +900,8 @@
     height: 100%;
     margin-left: 0px;
   }
-  .home-text07 {
-    color: var(--dl-color-gray-500);
-  }
-  .home-text08 {
-    color: #080000;
-  }
   .home-text09 {
-    color: #080000;
+    color: var(--dl-color-gray-500);
   }
   .home-text10 {
     color: #080000;
@@ -927,19 +921,25 @@
   .home-text15 {
     color: #080000;
   }
+  .home-text16 {
+    color: #080000;
+  }
+  .home-text17 {
+    color: #080000;
+  }
   .home-feature-card {
     padding-bottom: 0px;
   }
-  .home-text17 {
+  .home-text19 {
     color: var(--dl-color-gray-500);
   }
-  .home-text19 {
+  .home-text21 {
     color: #0f0f10;
   }
-  .home-text34 {
+  .home-text36 {
     color: #080808;
   }
-  .home-text39 {
+  .home-text41 {
     color: #111112;
   }
   .home-about-us {
@@ -953,17 +953,9 @@
   .home-text-container {
     width: 100%;
   }
-  .home-text43 {
+  .home-text45 {
     color: #000000;
     font-size: 18px;
-    align-self: center;
-    text-align: left;
-  }
-  .home-text44 {
-    align-self: center;
-    text-align: left;
-  }
-  .home-text45 {
     align-self: center;
     text-align: left;
   }
@@ -987,13 +979,21 @@
     align-self: center;
     text-align: left;
   }
+  .home-text51 {
+    align-self: center;
+    text-align: left;
+  }
+  .home-text52 {
+    align-self: center;
+    text-align: left;
+  }
   .home-testimonial-card {
     width: 308px;
   }
-  .home-text54 {
+  .home-text56 {
     color: var(--dl-color-gray-500);
   }
-  .home-text55 {
+  .home-text57 {
     color: #040404;
   }
   .home-testimonial-card1 {
@@ -1001,7 +1001,7 @@
     height: 100%;
     margin-left: var(--dl-space-space-unit);
   }
-  .home-text57 {
+  .home-text59 {
     color: #020202;
   }
   .home-testimonial-card2 {
@@ -1009,7 +1009,7 @@
     height: 100%;
     margin-left: var(--dl-space-space-unit);
   }
-  .home-text58 {
+  .home-text60 {
     color: #0a0a0a;
   }
   .home-locations-container {
@@ -1061,21 +1061,15 @@
     padding-top: var(--dl-space-space-doubleunit);
     padding-bottom: var(--dl-space-space-doubleunit);
   }
-  .home-text03 {
-    text-align: center;
-  }
-  .home-text07 {
-    color: var(--dl-color-gray-500);
-    text-align: justify;
-  }
-  .home-text08 {
+  .home-text05 {
     text-align: center;
   }
   .home-text09 {
-    color: #080000;
+    color: var(--dl-color-gray-500);
+    text-align: justify;
   }
   .home-text10 {
-    color: #080000;
+    text-align: center;
   }
   .home-text11 {
     color: #080000;
@@ -1090,6 +1084,12 @@
     color: #080000;
   }
   .home-text15 {
+    color: #080000;
+  }
+  .home-text16 {
+    color: #080000;
+  }
+  .home-text17 {
     color: #080000;
   }
   .home-cards-container {
@@ -1125,13 +1125,13 @@
   .home-heading-container {
     align-items: center;
   }
-  .home-text41 {
+  .home-text43 {
     text-align: center;
   }
-  .home-text43 {
+  .home-text45 {
     text-align: justify;
   }
-  .home-text53 {
+  .home-text55 {
     text-align: center;
   }
   .home-cards-container1 {
@@ -1226,17 +1226,11 @@
     width: 100%;
     height: 100%;
   }
-  .home-text07 {
+  .home-text09 {
     color: var(--dl-color-gray-500);
     height: 100%;
     align-self: center;
     text-align: justify;
-  }
-  .home-text08 {
-    color: #111212;
-  }
-  .home-text09 {
-    color: #111212;
   }
   .home-text10 {
     color: #111212;
@@ -1256,6 +1250,12 @@
   .home-text15 {
     color: #111212;
   }
+  .home-text16 {
+    color: #111212;
+  }
+  .home-text17 {
+    color: #111212;
+  }
   .home-feature-card {
     width: 100%;
     height: 100%;
@@ -1272,7 +1272,7 @@
   .home-service-card1 {
     width: 100%;
   }
-  .home-text34 {
+  .home-text36 {
     color: #010006;
   }
   .home-service-card2 {
@@ -1286,7 +1286,7 @@
   .home-about-us {
     max-width: 100%;
   }
-  .home-text43 {
+  .home-text45 {
     color: rgb(0, 0, 0);
     font-size: 18px;
     text-align: justify;
@@ -1294,16 +1294,16 @@
   .home-testimonials {
     max-width: 100%;
   }
-  .home-text53 {
+  .home-text55 {
     text-align: center;
   }
   .home-testimonial-card {
     width: 100%;
   }
-  .home-text54 {
+  .home-text56 {
     color: var(--dl-color-gray-500);
   }
-  .home-text55 {
+  .home-text57 {
     color: #040404;
   }
   .home-testimonial-card1 {
@@ -1320,7 +1320,7 @@
     padding-left: 0px;
     padding-right: 0px;
   }
-  .home-text59 {
+  .home-text61 {
     text-align: center;
   }
   .home-locations-container {
